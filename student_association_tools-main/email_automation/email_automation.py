@@ -22,12 +22,12 @@ subject = 'NextGen BioTech Newsletter - February'
 images = [
     {"path": "Header Newsletter.png", "cid": "header"},
     {"path": "Recap.png", "cid": "recap"},
-    {"path": "seminar.jpg", "cid": "seminar"},
+    {"path": "picnic.png", "cid": "picnic"},
     {"path": "Announce.png", "cid": "announcements"},
     {"path": "Rec.png", "cid": "recommendations"},
     {"path": "joy.jpg", "cid": "joy"},
     {"path": "Research.png", "cid": "research"},
-    {"path": "drug.jpg", "cid": "drug"},
+    {"path": "genomics.png", "cid": "genomics"},
     {"path": "Updated logo+name+slogan.png", "cid": "logo"}
 ]
 
