@@ -25,7 +25,7 @@ images = [
     {"path": "picnic.png", "cid": "picnic"},
     {"path": "Announce.png", "cid": "announcements"},
     {"path": "Rec.png", "cid": "recommendations"},
-    {"path": "joy.jpg", "cid": "joy"},
+    {"path": "andreyk.png", "cid": "andreyk"},
     {"path": "Research.png", "cid": "research"},
     {"path": "genomics.png", "cid": "genomics"},
     {"path": "Updated logo+name+slogan.png", "cid": "logo"}
